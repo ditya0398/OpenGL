@@ -1,7 +1,7 @@
 # OpenGL (WIP)
 
 This repo defines my work in native OpenGL.
-Since this is what I had started programming from, Please do not expect the code to be pretty.
+Since this is where I had started programming from, Please do not expect the code to be pretty.
 
 ## Dependencies
 GLEW and Win32SDK
